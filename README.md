@@ -25,7 +25,9 @@ Other folders that would be created once the tests are run :
 List of Test Cases automated are as below
 
 Positive Test cases
+
 —————————
+
 Scenario 1 - Add multiple items to list
 	Validate Items added successfully
 	Validate Footer text is correct
@@ -48,6 +50,7 @@ Scenario 5 - Clear completed button works
 	Validate footer text is correct
 
 Negative Test Cases
+
 —————————-
 
 Scenario 1 - Add duplicate items
@@ -68,7 +71,8 @@ Scenario 4 - Add item in other script than English
 	Validate footer text has increased count
 
 Results
-———-
+
+--——-
 
 Negative Scenario 1 fails as per below expected result. 
 Expected Result (assumed) = Duplicate items are not allowed to be added
