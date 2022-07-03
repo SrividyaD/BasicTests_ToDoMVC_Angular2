@@ -13,9 +13,9 @@ The framework is using Page Object Model, that is used to segregate page depende
 
 There are 3 files within the project structure
 
-1. Pages - Page objects are included in this folder
-2. Tests - functional tests are included in this folder
-3. Conf - configuration files are included in this folder
+1. HomePage.js - Page objects are included in this file
+2. BasicTests.js - functional tests are included in this file
+3. conf.js - configuration files are included in this file
 
 Other folders that would be created once the tests are run :
 1. Allure-results : Allure reports are located in this folder
